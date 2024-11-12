@@ -1,4 +1,4 @@
-**Governance e Regolamentazione della Sicurezza delle Informazioni: Riassunto**
+### Governance e Regolamentazione della Sicurezza delle Informazioni
 
 - **Governance**: Si riferisce alla gestione e alla direzione di un'organizzazione per raggiungere i suoi obiettivi, assicurando al contempo la conformità con leggi, regolamenti e standard.
   
