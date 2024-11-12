@@ -24,4 +24,45 @@ Si riferisce ai quadri legali e normativi che regolano la protezione dei dati. L
 - **PCI DSS** (Standard di Sicurezza dei Dati delle Carte di Pagamento)
 - **PIPEDA** (Legge sulla Protezione delle Informazioni Personali e dei Documenti Elettronici)
 
-In sintesi, governance e regolamentazione lavorano insieme per proteggere le informazioni e assicurare che le organizzazioni rispettino le leggi e gli standard di sicurezza.
+Governance e regolamentazione lavorano insieme per proteggere le informazioni e assicurare che le organizzazioni rispettino le leggi e gli standard di sicurezza.
+
+### Implementazione della governance: 
+![immagine](https://github.com/user-attachments/assets/aa1b0461-4dad-42dc-9ab4-732d50929156)
+1. Implementazione della Governance
+2. Definire il contenuto e la necessità del documento.
+3. Esaminare leggi, regolamenti, e documenti esistenti.
+4. Scrivere il documento in modo chiaro, specifico, e attuabile.
+5. Sottoporre il documento a revisione e ottenere approvazione.
+6. Comunicare il documento e fornire formazione.
+7. Revisione e aggiornamento6.
+
+### GRC (Governance, Rischio, Conformità):
+
+Il GRC è un approccio che aiuta le organizzazioni a mantenere la sicurezza e a rispettare le leggi. Combina tre aree fondamentali: governance, gestione del rischio e conformità, allineandole agli obiettivi aziendali e alle normative di settore.
+
+### Componenti del GRC:
+
+- **Governance**: Definisce la strategia di sicurezza, stabilendo le regole, gli standard e i metodi per monitorare come l'organizzazione sta raggiungendo i suoi obiettivi.
+
+- **Gestione del Rischio**: Identifica i rischi potenziali, li valuta e stabilisce azioni per ridurli o eliminarli. Include il monitoraggio continuo per assicurarsi che i rischi siano gestiti correttamente.
+
+- **Conformità**: Garantisce che l'organizzazione rispetti le leggi, le normative e le politiche interne, con audit regolari e report per verificare che non ci siano problemi di conformità.
+
+Le normative sulla privacy e la protezione dei dati sono cruciali in vari settori (finanziario, sanitario, governativo, industriale) perché riguardano la gestione delle informazioni personali identificabili (PII). Queste leggi aiutano a garantire che i dati siano trattati in modo responsabile, protetto e conforme alle normative, instaurando fiducia e proteggendo la privacy dei cittadini.
+General Data Protection Regulation (GDPR)
+
+### Privacy e Data Protection: 
+Il GDPR è una legge dell'Unione Europea, introdotta nel maggio 2018, che tutela i dati personali dei cittadini dell'UE. Essa stabilisce regole precise per la raccolta, il trattamento e la protezione dei dati personali, definendo questi ultimi come informazioni che possono identificare direttamente o indirettamente una persona.
+Principali Requisiti del GDPR:
+
+- Consenso Preventivo: Prima di raccogliere i dati personali, deve essere ottenuto il consenso esplicito della persona interessata.
+- Minimizzazione dei Dati: I dati devono essere raccolti solo se strettamente necessari e devono essere conservati il meno possibile.
+- Protezione dei Dati: Devono essere adottate misure adeguate per proteggere i dati personali da accessi non autorizzati o danni.
+
+Vantaggi del GDPR:
+
+- Applicazione Globale: Il GDPR riguarda tutte le aziende che trattano dati di cittadini dell'UE, indipendentemente da dove siano situate.
+- Conformità Rigorosa: Le imprese devono raccogliere dati personali solo per scopi legittimi e informare i cittadini su come vengono       utilizzati.
+- Sanzioni: Le violazioni del GDPR comportano multe suddivise in due categorie:
+- Violazioni Gravi (Tier 1): Ad esempio, raccogliere dati senza autorizzazione o condividerli senza consenso. Le multe possono arrivare fino al 4% del fatturato dell'azienda o 20 milioni di euro (a seconda di quale cifra sia più alta).
+- Violazioni Minori (Tier 2): Ad esempio, mancare di notificare una violazione dei dati. Le multe possono arrivare fino al 2% del fatturato o 10 milioni di euro.
