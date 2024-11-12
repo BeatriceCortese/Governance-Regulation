@@ -66,3 +66,35 @@ Vantaggi del GDPR:
 - Sanzioni: Le violazioni del GDPR comportano multe suddivise in due categorie:
 - Violazioni Gravi (Tier 1): Ad esempio, raccogliere dati senza autorizzazione o condividerli senza consenso. Le multe possono arrivare fino al 4% del fatturato dell'azienda o 20 milioni di euro (a seconda di quale cifra sia più alta).
 - Violazioni Minori (Tier 2): Ad esempio, mancare di notificare una violazione dei dati. Le multe possono arrivare fino al 2% del fatturato o 10 milioni di euro.
+
+![immagine](https://github.com/user-attachments/assets/cc85e975-9ae2-4977-89f9-cdfe2085594a)
+
+**NIST 800-53**
+
+Il NIST 800-53 è una pubblicazione dal titolo "Controlli di Sicurezza e Privacy per Sistemi Informativi e Organizzazioni", sviluppata dal National Institute of Standards and Technology (NIST) negli Stati Uniti. Questa guida offre un elenco di controlli di sicurezza pensati per proteggere la triade CIA (Confidenzialità, Integrità, Disponibilità) nei sistemi informatici. Il NIST 800-53 funge da framework per le organizzazioni, consentendo loro di valutare e migliorare la sicurezza e la privacy dei propri sistemi, rispettando al contempo leggi, regolamenti e politiche applicabili.
+
+Il NIST 800-53 fornisce un ampio set di controlli per la sicurezza e la privacy, che le organizzazioni possono applicare per proteggere le proprie operazioni, i beni, il personale e le altre entità coinvolte da una vasta gamma di minacce e rischi. Questi includono attacchi deliberati, errori umani, disastri naturali, guasti infrastrutturali, spionaggio informatico e questioni relative alla privacy.
+
+![immagine](https://github.com/user-attachments/assets/8c77f808-049b-4f91-80b3-4a3ab19377ba)
+
+**NIST 800-63B**
+
+Il NIST Special Publication 800-63B è una serie di linee guida sviluppate dal NIST per supportare le organizzazioni nella gestione dell'identità digitale, concentrandosi sul processo di verifica dell'identità degli utenti che accedono a sistemi, servizi e reti digitali. Queste linee guida offrono indicazioni per l'adozione di diversi livelli di garanzia dell'identità, da basso ad elevato, e forniscono consigli sull'uso di vari metodi di autenticazione come password, biometria e token, oltre a suggerimenti sulla gestione sicura delle credenziali.
+
+**Gestione della Sicurezza delle Informazioni (IS Management)**
+
+La gestione della sicurezza delle informazioni si occupa della protezione dei dati da accessi non autorizzati e altre minacce. Questo include la pianificazione, l'implementazione e il mantenimento delle misure di sicurezza, nonché l'assessment dei rischi, lo sviluppo di controlli, la risposta agli incidenti e la formazione. La **compliance** si riferisce al rispetto delle normative e degli standard relativi alla sicurezza delle informazioni. Due degli standard principali in questo ambito sono ISO/IEC 27001 e SOC 2.
+
+**ISO/IEC 27001**
+
+ISO 27001 è uno standard internazionale che riguarda il Sistema di Gestione della Sicurezza delle Informazioni (ISMS). Definisce i requisiti necessari per proteggere i dati aziendali e include attività come la valutazione e la gestione dei rischi, nonché la conduzione di audit interni. L'adozione di questo standard consente alle organizzazioni di garantire la sicurezza delle informazioni e di allineare le proprie politiche di sicurezza agli obiettivi aziendali.
+
+![immagine](https://github.com/user-attachments/assets/da5eb959-3947-4a74-a535-e0f3319a1bdc)
+
+
+**SOC 2**
+
+SOC 2 è un framework di audit utilizzato per valutare la sicurezza, la privacy e l'affidabilità dei sistemi aziendali, basato sulla triade CIA (Confidenzialità, Integrità, Disponibilità). È particolarmente importante per i fornitori di servizi che gestiscono dati sensibili. Un audit SOC 2 verifica che l'organizzazione abbia implementato controlli adeguati per proteggere i dati e i sistemi. Il rapporto dell'audit può essere condiviso con clienti e altre parti interessate per dimostrare la conformità alle pratiche di sicurezza.
+
+![immagine](https://github.com/user-attachments/assets/8153cc95-e787-42be-bf63-d33e27665ff2)
+
